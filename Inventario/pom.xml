@@ -7,9 +7,9 @@
     <packaging>jar</packaging>
     <dependencies>
         <dependency>
-            <groupId>PYME_DB</groupId>
-            <artifactId>mysql</artifactId>
-            <version>3.8.0</version>
+            <groupId>${project.groupId}</groupId>
+            <artifactId>Avance02_CS</artifactId>
+            <version>${project.version}</version>
         </dependency>
     </dependencies>
     <properties>
